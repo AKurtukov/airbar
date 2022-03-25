@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.uiutilities.airbar.view.AirbarView
+        android:id="@+id/explosionView"
+        android:elevation="@dimen/airbar_elevation"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:colorBagel="@color/darkBackground"
+        app:colorBagelStroke="@color/darkBackground"
+        app:colorBar="@color/darkBackground"
+        app:bounceBar= "@dimen/airbar_bounce_bar"
+        app:paddingBagel= "@dimen/airbar_padding_bagel"
+        app:strokeWidth="@dimen/airbar_stroke_width"
+        app:isMoveable="true"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

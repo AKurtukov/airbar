@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AirbarView">
+        <attr name="colorBar" format="color" />
+        <attr name="colorBagel" format="color" />
+        <attr name="colorBagelStroke" format="color" />
+        <attr name="paddingBagel" format="dimension" />
+        <attr name="bounceBar" format="dimension" />
+        <attr name="сornerRadius" format="dimension" />
+        <attr name="strokeWidth" format="dimension" />
+        <attr name="isMoveable" format="boolean" />
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="stroke_width">4dp</dimen>
+    <dimen name="corner_radius">25dp</dimen>
+    <dimen name="bottom_margin">25dp</dimen>
+
+    <dimen name="airbar_elevation">8dp</dimen>
+    <dimen name="airbar_bounce_bar">100dp</dimen>
+    <dimen name="airbar_padding_bagel">10dp</dimen>
+    <dimen name="airbar_stroke_width">2dp</dimen>
+
+    <dimen name="text_item_height">20dp</dimen>
+    <dimen name="text_item_margin">8dp</dimen>
+    <dimen name="item_padding">8dp</dimen>
+
+</resources>

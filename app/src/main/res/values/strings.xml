@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AirBar</string>
+    <string name="deposit_detail_action_info">Информация</string>
+    <string name="deposit_detail_action_add">Пополнить</string>
+    <string name="deposit_detail_action_withdraw">Снять</string>
+    <string name="deposit_detail_action_settings">Дополнительные действия</string>
+</resources>
