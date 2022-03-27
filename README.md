@@ -4,4 +4,4 @@ AirbarView - вью элемент перемещаемый по клику.
 
 Демонстрация тут https://youtu.be/OU1bFV5kHCQ
 
-[![IMAGE ALT TEXT HERE](https://github.com/AKurtukov/airbar/blob/main/screen/photo.jpg)](https://youtu.be/OU1bFV5kHCQ)
+<img src="https://github.com/AKurtukov/airbar/blob/main/screen/photo.jpg" width="295" height="640">
